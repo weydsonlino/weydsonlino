@@ -28,5 +28,3 @@ Bem-vindo ao meu perfil no GitHub! Sou um desenvolvedor focado em back-end, mas 
 - [Email](mailto:seu-email@exemplo.com)
 
 ---
-
-Esse `README.md` destaca suas habilidades e objetivos, além de facilitar o contato para quem visitar seu perfil. Se quiser ajustar algum detalhe ou adicionar mais informações, é só me avisar!
