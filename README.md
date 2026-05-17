@@ -19,8 +19,13 @@ Bem-vindo ao meu perfil no GitHub! Sou um desenvolvedor focado em back-end, mas 
 
 ## 📈 Estatísticas do GitHub
 
-![Weydson's GitHub Stats](https://github-readme-stats.vercel.app/api?username=weydsonlino&show_icons=true&theme=dracula)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=weydsonlino&layout=compact&theme=dracula)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=weydsonlino&theme=dracula)
+
+![](https://streak-stats.demolab.com?user=weydsonlino&theme=dracula)
+
+![](https://github-readme-activity-graph.vercel.app/graph?username=weydsonlino&theme=dracula)
+
+![](https://github-profile-trophy.vercel.app/?username=weydsonlino&theme=dracula&row=1&column=6)
 
 ## 🌐 Vamos Conectar!
 
